@@ -4,6 +4,8 @@ Created to use with PDF files. Converting PDF files into text files and listing 
 
 **Pre-Requisites:**
 
+- There 2 path names with XXXXX that needs to be updated with the computer username
+
 - 5 Folders:
   - Input
   - Output
@@ -11,6 +13,8 @@ Created to use with PDF files. Converting PDF files into text files and listing 
   - Png_Files
   - Text_files
 
-Search_Words excel file should be in Input folders and the search words should be entered here. 
+- Search_Words excel file should be in Input folders and the search words should be entered here. 
 
-PDF files must be placed into the PDF_Files folder.
+- PDF files must be placed into the PDF_Files folder.
+
+
